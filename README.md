@@ -1,6 +1,6 @@
 # Mögelostin Oppivuodet
 
-Esseikokoelma Möbius-nauhasta rakenteellisena käsitteenä, emergenssistä, abstraktiosta, tietoisuudesta, tekoälystä ja fysikaalisista analogioista. Tekstit ovat syntyneet keskustelujen pohjalta ja koottu yhdeksi kaareksi.
+Essekokoelma Möbius-nauhasta rakenteellisena käsitteenä, emergenssistä, abstraktiosta, tietoisuudesta, tekoälystä ja fysikaalisista analogioista. Tekstit ovat syntyneet keskustelujen pohjalta ja koottu yhdeksi kaareksi.
 
 ## Lue
 
