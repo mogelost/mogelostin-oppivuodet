@@ -1,6 +1,6 @@
 # S04 – Informaatio, muoto ja se, mikä jää jäljelle
 
-Tässä osiossa liike vaihtaa mittakaavaa: kun puhuttiin ajattelusta, kielestä ja järjestelmistä, nyt kysytään mitä näistä *säilyy*.
+Tässä osiossa liike vaihtaa mittakaavaa: kun aiemmin puhuttiin ajattelusta, kielestä ja järjestelmistä, nyt kysytään mitä näistä *säilyy*.
 
 S04 tarkastelee informaatiota rakenteena, muotoa kantajana ja “jäljelle jäämistä” ilmiönä, joka ei ole vain historiallinen sattuma vaan mahdollisesti topologinen seuraus. Tämä on se kohta, jossa abstraktio ei enää ole vain työkalu, vaan välttämätön lukutapa: jos jotain jää, sen täytyy jäädä *jonkin rakenteen vuoksi*.
 
