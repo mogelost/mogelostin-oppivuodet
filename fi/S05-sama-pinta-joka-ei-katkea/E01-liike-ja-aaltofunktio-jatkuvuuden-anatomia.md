@@ -6,7 +6,7 @@
 
 Jos maailma todella on liikkeessä, miksi me näemme sen pysyvänä? Ja jos kaikki liikkuu, miksi mikään ei putoa pois? Kysymys ei ole vain runollinen. Se on sama kysymys, johon kvanttifysiikka, fenomenologia ja topologia vastaavat kukin omalla kielellään. Yksi käyttää symboleja ja funktioita, toinen kokemusta ja havaintoa, kolmas muotoa ja jatkuvuutta. Ja kaikilla on yhteinen periaate: **järjestys ei ole pysähdyksen tila, vaan liikkeen muoto.**
 
-![Joshua Guo -tweet](img/joshua-guo-tweet.jpeg)
+![Joshua Guo -tweet](img/joshua-guo-tweet.jpg)
 
 ## Kvanttivärähtelyn logiikka
 
