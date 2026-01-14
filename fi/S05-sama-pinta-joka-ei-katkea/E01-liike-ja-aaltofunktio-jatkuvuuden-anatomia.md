@@ -1,4 +1,4 @@
-# E01 – Liike ja aaltofunktio – jatkuvuuden anatomia
+# Liike ja aaltofunktio – jatkuvuuden anatomia
 
 *Kiitos twiitistä, joka aikaansai tämän osion esseet:* [Joshua Guo (X)](https://x.com/jshguo/status/1983847796190175405)
 
