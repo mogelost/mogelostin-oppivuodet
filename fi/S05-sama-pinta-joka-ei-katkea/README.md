@@ -1,28 +1,30 @@
 # S05 – Sama pinta, joka ei katkea
 
-Tässä osiossa palataan Möbiukseen “kovalla tavalla”: ei pelkkänä metaforana, vaan jatkuvuuden mallina.  
-S05 kysyy, miltä todellisuus näyttää, jos se ei ole joukko erillisiä palasia, vaan *yksi pinta*, joka vaihtaa puolta katkeamatta.
+Tässä osiossa liike siirtyy jatkuvuuden ytimeen: miten maailma voi muuttua ilman että se *katkeaa*.
 
-S05:ssa liike, epätäydellisyys, viive ja topologia kytkeytyvät samaan väitteeseen: jos jokin pysyy koherenttina muutoksessa, sen täytyy nojata rakenteeseen, joka kestää.
+S05 kokoaa yhteen aaltofunktion, havainnon ja topologian kielen. Möbius toimii tässä enemmän kuin vertauskuvana: se on malli sille, miten vastakohdat, mittaus ja aika voivat olla saman pinnan eri kohtia. Järjestys ei ole pysähdyksen tila, vaan liikkeen muoto.
 
 ## Jaksot
 
 - [E01 – Liike ja aaltofunktio – jatkuvuuden anatomia](./E01-liike-ja-aaltofunktio-jatkuvuuden-anatomia.md)
-- [E02 – Epätäydellisyyden laki ja liukuvärjätty Möbius](./E02-epataydellisyyden-laki-ja-liukuvarjaty-mobius.md)
-- [E03 – Viive, josta syntyy tietoisuus](./E03-viive-josta-syntyy-tietoisuus.md)
-- [E04 – Möbius, kietoutuminen ja madonreiät – topologinen näkökulma todellisuuteen](./E04-mobius-kietoutuminen-ja-madonreiat-topologinen-nakokulma-todellisuuteen.md)
-- [E05 – Miksi todellisuus jää kesken?](./E05-miksi-todellisuus-jaa-kesken.md)
+- [E02 – Mitta, merkitys ja havainto — kun todellisuus katsoo takaisin](./E02-mitta-merkitys-ja-havainto-kun-todellisuus-katsoo-takaisin.md)
+- [E03 – Epätäydellisyyden laki ja liukuvärjätty Möbius](./E03-epataydellisyyden-laki-ja-liukuvarjatty-mobius.md)
+- [E04 – Viive, josta syntyy tietoisuus](./E04-viive-josta-syntyy-tietoisuus.md)
+- [E05 – Möbius, kietoutuminen ja madonreiät – topologinen näkökulma todellisuuteen](./E05-mobius-kietoutuminen-ja-madonreiat-topologinen-nakokulma-todellisuuteen.md)
+- [E06 – Miksi todellisuus jää kesken?](./E06-miksi-todellisuus-jaa-kesken.md)
 
 ## Mitä tässä tapahtuu?
 
-S05:n perusliike on tämä:
+S05:n perusväite on, että jatkuvuus ei synny staattisuudesta vaan rakenteesta, joka kestää kääntymisen:
 
-- *jatkuvuus* ei ole vain “pehmeää siirtymää”, vaan rakenne, joka tekee muutoksesta mahdollisen
-- *epätäydellisyys* ei ole häiriö, vaan ehto sille, että liike jatkuu eikä lukkiudu
-- *viive* ei ole vika, vaan se väli, jossa havainto ja merkitys ehtivät syntyä
-- *topologia* tarjoaa kielen sille, miksi sama muoto voi kantaa monia “puolia” ilman, että se repeää
+- *liike* ei ole poikkeama järjestyksestä, vaan järjestyksen tapa jatkua
+- *mittaus* ei paljasta “valmista” maailmaa, vaan paikallistaa sen suhteessa havaitsijaan
+- *epätäydellisyys* ei ole virhe kuvassa, vaan se mikä pitää kuvan elossa
+- *viive* ei ole häiriö, vaan se mistä kokemus (ja ehkä tietoisuus) muodostuu
+- *kietoutuminen* vihjaa, että erillisyys voi olla vain paikallinen vaikutelma
+- *keskeneräisyys* ei ole puute, vaan todellisuuden luontainen olomuoto: liukuväri, ei binääri
 
-Jos S04 kysyi “mikä jää?”, S05 kysyy: *mikä tekee jäämisestä ylipäätään mahdollista ilman katkeamista*.
+Jos S04 kysyi “mikä jää?”, S05 kysyy: *mikä jatkuu, vaikka kaikki vaihtaa puolta?*
 
 ---
 
