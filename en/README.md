@@ -1,4 +1,4 @@
-# mögelostin learning years (en)
+# Mögelost: The Apprenticeship Years (en)
 
 This folder contains the essays as individual Markdown pages (1 essay = 1 file).  
 You can read the content directly on GitHub or reuse it later, for example in WordPress and translations.
@@ -49,7 +49,7 @@ You can read the content directly on GitHub or reuse it later, for example in Wo
 - [Motion and the wave function — the anatomy of continuity](./S05-sama-pinta-joka-ei-katkea/E01-liike-ja-aaltofunktio-jatkuvuuden-anatomia.md)
 - [The law of imperfection and a gradient-tinted Möbius](./S05-sama-pinta-joka-ei-katkea/E02-epataydellisyyden-laki-ja-liukuvarjaty-mobius.md)
 - [The delay from which consciousness is born](./S05-sama-pinta-joka-ei-katkea/E03-viive-josta-syntyy-tietoisuus.md)
-- [Möbius, entanglement, and wormholes — a topological view of reality](./S05-sama-pinta-joka-ei-katkea/E04-mobius-kietoutuminen-ja-madonreiat-topologinen-nakokulma-todellisuuteen.md)
+- [Möbius, entanglement, and wormholes — a topological view of reality](./S05-sama-pinta-jokka-ei-katkea/E04-mobius-kietoutuminen-ja-madonreiat-topologinen-nakokulma-todellisuuteen.md)
 - [Why does reality remain unfinished?](./S05-sama-pinta-joka-ei-katkea/E05-miksi-todellisuus-jaa-kesken.md)
 
 ### What do we do with this knowledge?
