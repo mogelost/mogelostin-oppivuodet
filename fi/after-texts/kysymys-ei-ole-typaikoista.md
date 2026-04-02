@@ -32,7 +32,7 @@ Samalla on syytä huomata, että sama murros, joka tekee tällaisesta peruslupau
 
 Tämä ei tarkoittaisi “ilmaisia autoja kaikille”, vaan sellaista perustasoa, jonka varaan ihmiselämä voidaan rakentaa: asuminen, ravinto, terveys, energia ja yhteys yhteiskuntaan. Ajatus ei ole historiallisesti vieras. Hyvinvointivaltion perusidea on juuri siinä, että valtio tai siihen kytkeytyvä instituutioiden verkosto suojaa ja edistää kansalaisten taloudellista ja sosiaalista hyvinvointia.[3]  Niin markkinamyönteinen kuin näkökulma voi ollakin, kaikki yhteiskunnan tehtävät eivät kuulu markkinoille. Markkinoiden logiikka ei tuota kaikissa asioissa parasta lopputulosta edes silloin, kun se on mukana järjestämässä niitä.
 
-Britannican mukaan hyvinvointivaltio sisältää tyypillisesti sosiaalivakuutuksen lisäksi myös julkista peruspalvelujen tarjontaa, kuten koulutusta, terveyspalveluja ja joskus asumista.[3] Pohjoismaisessa mallissa tämä näkyy laajoina palveluina ja turvaverkkoina, jotka eivät perustu pelkästään yksilön markkinamenestykseen vaan myös tarpeeseen ja yhteiseen vastuuseen.[4]
+Murros ei ehkä ainoastaan pakota kysymään peruslupauksen tarvetta — se voi myös ensimmäistä kertaa tehdä siitä laajassa mittakaavassa realistisen. Britannican mukaan hyvinvointivaltio sisältää tyypillisesti sosiaalivakuutuksen lisäksi myös julkista peruspalvelujen tarjontaa, kuten koulutusta, terveyspalveluja ja joskus asumista.[3] Pohjoismaisessa mallissa tämä näkyy laajoina palveluina ja turvaverkkoina, jotka eivät perustu pelkästään yksilön markkinamenestykseen vaan myös tarpeeseen ja yhteiseen vastuuseen.[4]
 
 ## Skenaariot
 
