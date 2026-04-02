@@ -1,6 +1,6 @@
 # Tämä ei ole vain kysymys työpaikoista
 
-Generatiivisen tekoälyn käynnistämä teknologinen murros voi olla erilainen kuin aiemmat. Generatiivisen tekoälyn käynnistämä teknologinen murros voi olla erilainen kuin aiemmat. Ei välttämättä elementeiltään, vaan voimaltaan. Se ei ole vain uusi kone tai ohjelma, joka korvaa ihmistyötä. Olemme vasta todistaneet alkusoittoa muutokselle, joka ulottaa tehokkuuden aloille, joita olemme tottuneet pitämään selvästi ihmistyön alueena.
+Generatiivisen tekoälyn käynnistämä teknologinen murros voi olla erilainen kuin aiemmat. Ei välttämättä elementeiltään, vaan voimaltaan. Se ei ole vain uusi kone tai ohjelma, joka korvaa ihmistyötä. Olemme vasta todistaneet alkusoittoa muutokselle, joka ulottaa tehokkuuden aloille, joita olemme tottuneet pitämään selvästi ihmistyön alueena.
 
 Useimmat yhteiskunnat ovat rakentaneet järjestyksensä oletukselle, että ihmiset saavat paikkansa myymällä työpanostaan ja saavat siitä toimeentulon. Työ ei ole vain rahaa. Se on myös oikeutus, sosiaalinen asema ja kokemus merkityksellisyydestä.
 
