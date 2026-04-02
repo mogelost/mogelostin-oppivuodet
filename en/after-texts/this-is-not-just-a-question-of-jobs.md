@@ -32,7 +32,7 @@ At the same time, it is worth noting that the same disruption that makes such a 
 
 This would not mean “free cars for everyone,” but rather a basic foundation on which a human life can be built: housing, food, health, energy, and a connection to society. The idea is not historically alien. The core idea of the welfare state is precisely that the state, or the wider network of institutions tied to it, protects and advances the economic and social well-being of its citizens.[3] However market-friendly one may be, not all social functions belong to the market — and even when they do, markets do not always produce the best outcome.
 
-According to Britannica, the welfare state typically includes not only social insurance but also the public provision of basic services such as education, healthcare, and sometimes housing.[3] In the Nordic model, this appears in the form of extensive services and safety nets that are based not only on individual market success but also on need and shared responsibility.[4]
+The disruption may not only force the question of a basic promise — it may also, for the first time, make it realistic at scale. According to Britannica, the welfare state typically includes not only social insurance but also the public provision of basic services such as education, healthcare, and sometimes housing.[3] In the Nordic model, this appears in the form of extensive services and safety nets that are based not only on individual market success but also on need and shared responsibility.[4]
 
 ## Scenarios
 
