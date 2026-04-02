@@ -1,4 +1,4 @@
-# This Is Not Just a Question of Jobs
+# This is not just a question of jobs
 
 The technological shift triggered by generative AI may differ from earlier ones. Not necessarily in its elements, but in its force. It is not merely a new machine or software tool replacing human labor: we have only witnessed the overture to a change that extends efficiency into fields we have been accustomed to seeing as distinctly human domains of work.
 
